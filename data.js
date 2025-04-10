@@ -8,8 +8,8 @@ const PRODUCTS = [
         price: 12990,
         material: "Натуральная кожа",
         images: [
-            "/goods/Nike_Dunk_v1/IMG_5737.png",
-            "/goods/Nike_Dunk_v1/Du_250409203320-1242822577.png",
+            "./goods/Nike_Dunk_v1/IMG_5737.png",
+            "./goods/Nike_Dunk_v1/Du_250409203320-1242822577.png",
 
         ],
     },
@@ -21,8 +21,8 @@ const PRODUCTS = [
         price: 12990,
         material: "Натуральная кожа",
         images: [
-            "/goods/Nike_Dunk_v2/Du_250409211247-1242822577.png",
-            "/goods/Nike_Dunk_v2/Du_250409211317-1242822577.png",
+            "./goods/Nike_Dunk_v2/Du_250409211247-1242822577.png",
+            "./goods/Nike_Dunk_v2/Du_250409211317-1242822577.png",
 
         ],
     },
